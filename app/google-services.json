@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576906867663",
+    "project_id": "changelogousingnotification",
+    "storage_bucket": "changelogousingnotification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576906867663:android:dffacfed78f5530cb4d8ba",
+        "android_client_info": {
+          "package_name": "com.android.changelogousingnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOoZccxmo-Hm4tOkPzvd71sKOzYDDKFrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
